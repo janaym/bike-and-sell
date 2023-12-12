@@ -7,6 +7,18 @@ Bike + Sell is a basic online marketplace designed exclusively for buying and se
 
 Bike+Sell is a straightforward project that focuses on connecting bike enthusiasts who want to buy or sell bikes.
 
+## Final Product:
+
+Browse for bikes: 
+![Market Place View](screenshots/browse_bikes.png)
+
+Message Seller:
+![Message seller view](screenshots/message_seller.png)
+
+Post a bike for sale:
+![Post a bike for sale view](screenshots/sell_bike.png)
+
+
 ## Technologies Used
 
 - **ES6 for Server-Side Code (NodeJS):** We've employed modern JavaScript features to develop the server-side code using NodeJS.
